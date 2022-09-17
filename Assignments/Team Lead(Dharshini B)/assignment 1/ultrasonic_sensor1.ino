@@ -1,4 +1,11 @@
+/*Description : 
+ULTRASONIC SENSOR : 
+The Ultrasonic Sensor is used for automatic door open and close. If the person comes near to the door , then buzzer goes on or else there is no buzzer sound.
 
+GAS SENSOR : 
+When gas leakage is detected and when the gas level readings exceeds 470 , the LED turns on otherwise the LED is turned off. This can be used to turn on/off emergency alarm light to indicate fire accidents.
+
+*/
 int trig =2;
 int echo = 3;
 int led = 12;
