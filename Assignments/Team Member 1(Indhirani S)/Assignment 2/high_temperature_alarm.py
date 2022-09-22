@@ -16,4 +16,5 @@ if temp > 50:
     print("Alert ! High temperature sensed .")
 else:
     print("Normal temperature")
+   
 
