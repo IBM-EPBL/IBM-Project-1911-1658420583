@@ -6,7 +6,7 @@ Assume u get temperature and humidity values (generated with random function to 
 write a condition to continuously detect alarm in case of high temperature.
 """
 
-// Solution:
+# Solution:
 
 import random
 Threshold=int(input("Enter threshold temperature (range 0,100): "))
