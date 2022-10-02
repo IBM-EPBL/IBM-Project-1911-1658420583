@@ -1,8 +1,8 @@
-PROJECT TITLE : Personal Assistance for Seniors who are self-reliant
+PROJECT TITLE : Personal Assistance for Seniors Who Are Self-Reliant
 
 Team ID : PNT2022TMID07000
 
-TEAM MEMBERS :
+TEAM MEMBERS:
 
 DHARSHINI B
 INDHIRANI S
